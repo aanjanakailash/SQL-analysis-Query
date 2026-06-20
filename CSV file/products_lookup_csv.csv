@@ -1,0 +1,18 @@
+Product_ID,Product_Name,Product_Category,Base_Unit_Price,Base_Unit_Cost,Supplier,Reorder_Level
+P001,Laptop,Electronics,48000,39000,Alpha Traders,50
+P002,Smartphone,Electronics,25000,20000,Prime India,75
+P003,Bluetooth Speaker,Electronics,2800,1800,Metro Supply,75
+P004,Monitor,Electronics,12500,9300,Alpha Traders,200
+P005,Keyboard,Electronics,900,520,Alpha Traders,200
+P006,Office Chair,Furniture,6500,5100,Rajasthan Mart,50
+P007,Study Table,Furniture,9000,7300,Alpha Traders,50
+P008,Bookshelf,Furniture,5500,3900,Metro Supply,75
+P009,Sofa,Furniture,22000,18500,TechnoHub,200
+P010,Notebook Pack,Office Supplies,220,120,Alpha Traders,200
+P011,Printer Paper,Office Supplies,350,260,Metro Supply,200
+P012,Pen Box,Office Supplies,180,95,Rajasthan Mart,75
+P013,Stapler,Office Supplies,280,170,Rajasthan Mart,200
+P014,Air Cooler,Appliances,7800,6200,Prime India,50
+P015,Mixer Grinder,Appliances,3200,2400,Metro Supply,150
+P016,Water Purifier,Appliances,11500,9700,Prime India,100
+P017,LED Bulb Pack,Appliances,450,260,Metro Supply,75

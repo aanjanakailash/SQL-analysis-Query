@@ -1,0 +1,20 @@
+City,State,Region,Monthly_Sales_Target,Monthly_Profit_Target,Production_Capacity_Units,Market_Demand_Index
+Ahmedabad,Gujarat,West,2052000,432000,2025,104
+Surat,Gujarat,West,1442000,103000,3850,97
+Gandhinagar,Gujarat,West,2024000,184000,2274,94
+Jaipur,Rajasthan,North,1764000,490000,6268,92
+Jodhpur,Rajasthan,North,1320000,352000,2776,81
+Udaipur,Rajasthan,North,1092000,84000,3998,79
+Mumbai,Maharashtra,West,2360000,590000,7301,111
+Pune,Maharashtra,West,1680000,224000,2439,104
+Nagpur,Maharashtra,West,910000,91000,2313,98
+Delhi,Delhi,North,1955000,575000,6253,115
+Noida,Uttar Pradesh,North,1166000,318000,2373,106
+Lucknow,Uttar Pradesh,North,810000,90000,3550,95
+Bengaluru,Karnataka,South,1680000,600000,2068,120
+Mysuru,Karnataka,South,688000,344000,4238,94
+Hyderabad,Telangana,South,1938000,114000,6033,111
+Chennai,Tamil Nadu,South,1785000,210000,3453,100
+Kolkata,West Bengal,East,801000,178000,4778,81
+Patna,Bihar,East,546000,78000,2498,71
+Bhubaneswar,Odisha,East,1743000,249000,3600,79
